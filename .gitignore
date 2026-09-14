@@ -1,0 +1,9 @@
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# AVR intermediate object files
+*.o
+
+# AVR linker/build ELF files
+*.elf
